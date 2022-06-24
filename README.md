@@ -31,3 +31,14 @@ or clone the project and run the following command
 ```bash
 pip install -r requirements.txt
 ```
+
+### Preview
+
+#### Home page UI
+![HomeUI](https://user-images.githubusercontent.com/92160667/175531049-5fdf6bfe-12f4-4816-8081-0c350b7e7754.png)
+
+#### Recommend UI
+![RecommendUI](https://user-images.githubusercontent.com/92160667/175531167-a1ce6dc1-4e79-4178-9b20-8e9ec7a4c2a5.png)
+
+#### Recommended Books
+![Recommended Books](https://user-images.githubusercontent.com/92160667/175531294-7e3812c9-229a-404a-a0cd-fda4714d1220.png)
