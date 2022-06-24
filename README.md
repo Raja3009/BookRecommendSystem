@@ -42,3 +42,6 @@ pip install -r requirements.txt
 
 #### Recommended Books
 ![Recommended Books](https://user-images.githubusercontent.com/92160667/175531294-7e3812c9-229a-404a-a0cd-fda4714d1220.png)
+
+### Deployed Project
+[Deployed Project](https://brs-mlp.herokuapp.com)
