@@ -1,4 +1,4 @@
-# BookRecommendSystem
+# Book Recommendation System
 
 ## About the Project
 
